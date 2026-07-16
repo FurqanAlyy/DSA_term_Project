@@ -8,15 +8,12 @@ using namespace std;
 const int MAX_USERS = 100;
 const int MAX_WATCHLIST = 100;
 const int MAX_HISTORY = 100;
-
 class Movie;
-
 class User
 {
 private:
     string username;
     string password;
-
     string watchlist[MAX_WATCHLIST];
     int watchlistCount;
 
