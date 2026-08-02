@@ -1,6 +1,6 @@
 # 🎬 C++ Console Streaming Platform
 
-A console-based movie streaming platform built in C++ that simulates core features of a real streaming service — user accounts, movie browsing, watch history, watchlists, and trending charts.
+A console-based movie streaming platform built in C++ that simulates using core DSA concepts core features of a real streaming service — user accounts, movie browsing, watch history, watchlists, and trending charts.
 
 ---
 
